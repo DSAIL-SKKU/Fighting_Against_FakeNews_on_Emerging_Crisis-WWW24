@@ -12,7 +12,7 @@ This folder includes the whole dataset that we collected.
 - Non-COVID-19 Fake News Claim 
 	- Crawled from [Politifact](https://www.politifact.com/) and [Snopes](https://www.snopes.com/)
 - Topic Keyword
-  - Extracted through [BERT-NER](https://github.com/kamalkraj/BERT-NER) and [KeyBERT](https://doi.org/10.5281/zenodo.4461265)
+  - Extracted through [BERT-NER](https://github.com/kamalkraj/BERT-NER) and [KeyBERT](https://github.com/MaartenGr/KeyBERT)
 - Propagation Data
   - Crawled from YouTube with [GoogleAPI](https://developers.google.com/youtube/)
  
