@@ -15,3 +15,19 @@
 - To download the dataset, please send email to mgyang@g.skku.edu.
 
 # Code
+### Get Started
+Python 3.7 & Pytorch 1.10.1
+```
+pip install -r requirements.txt
+```
+
+### Run
+For Exp. 1 (Without COVID-19 Data)
+```
+python3 ./model/main-ex1.py
+```
+
+For Exp. 2 (With a few COVID-19 Data)
+```
+python3 ./model/main-ex2.py
+```
