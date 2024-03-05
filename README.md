@@ -4,12 +4,14 @@
 
 # Dataset
 - COVID-19 Fake News Claim
-	- FakeCovid [Gautam Kishore Shahi and Durgesh Nandini. (2020)](https://gautamshahi.github.io/FakeCovid/)
-	- CoAID  [Limeng Cui and Dongwon Lee. (2020)](https://github.com/cuilimeng/CoAID) 
+	- [FakeCovid](https://gautamshahi.github.io/FakeCovid/)
+	- [CoAID](https://github.com/cuilimeng/CoAID) 
 - Non-COVID-19 Fake News Claim 
 	- Crawled from [Politifact](https://www.politifact.com/) and [Snopes](https://www.snopes.com/)
 - Topic Keyword
-  - Extracted through [BERT-NER](https://github.com/kamalkraj/BERT-NER) and KeyBERT [Maarten Grootendorst. (2020)](https://doi.org/10.5281/zenodo.4461265)
+  - Extracted through [BERT-NER](https://github.com/kamalkraj/BERT-NER) and [KeyBERT](https://doi.org/10.5281/zenodo.4461265)
 - Propagation Data
   - Crawled from YouTube with [GoogleAPI](https://developers.google.com/youtube/)
 - To download the dataset, please send email to mgyang@g.skku.edu.
+
+# Code
