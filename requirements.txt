@@ -1,0 +1,9 @@
+torch==1.10.1+cu111
+pytorch-lightning==1.6.2
+pytorch-transformers==1.2.0
+transformers==3.3.0
+dgl==0.6.1
+dgl-cu111==0.8.1
+dglgo==0.0.1
+emoji==1.7.0
+soynlp==0.0.493
