@@ -1,5 +1,5 @@
 # Fighting against Fake News on Newly-Emerging Crisis: A Case Study of COVID-19
-- [Migyeong Yang](https://sites.google.com/view/migyeong-yang), Chaewon Park, [Daeun Lee](https://sites.google.com/view/daeun-lee), [Jiwon Kang](https://ji1kang.github.io/), [Daejin Choi](https://daejin-choi.github.io/), [Jinyoung Han](https://sites.google.com/site/jyhantop/), Fighting against Fake News on Newly-Emerging Crisis: A Case Study of COVID-19, ACM Web Conference 2024 (WWW '24 Companion).
+- [Migyeong Yang](https://sites.google.com/view/migyeong-yang), Chaewon Park, [Jiwon Kang](https://ji1kang.github.io/), [Daeun Lee](https://sites.google.com/view/daeun-lee), [Daejin Choi](https://daejin-choi.github.io/), [Jinyoung Han](https://sites.google.com/site/jyhantop/), Fighting against Fake News on Newly-Emerging Crisis: A Case Study of COVID-19, ACM Web Conference 2024 (WWW '24 Companion).
 
 
 # Dataset
