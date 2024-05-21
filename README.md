@@ -51,3 +51,18 @@ For Exp. 2 (With a few COVID-19 Data)
 ```
 python3 ./model/main-ex2.py
 ```
+
+---
+# Citation
+### If our work was helpful in your research, please kindly cite this work:
+
+```
+BIBTEX
+@inproceedings{yang2024fighting,
+  title={Fighting against Fake News on Newly-Emerging Crisis: A Case Study of COVID-19},
+  author={Yang, Migyeong and Park, Chaewon and Kang, Jiwon and Lee, Daeun and Choi, Daejin and Han, Jinyoung},
+  booktitle={Companion Proceedings of the ACM on Web Conference 2024},
+  pages={718--721},
+  year={2024}
+}
+```
